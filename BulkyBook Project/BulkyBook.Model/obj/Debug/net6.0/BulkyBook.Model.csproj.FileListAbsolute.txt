@@ -1,0 +1,24 @@
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.deps.json
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.dll
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.pdb
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.AssemblyReference.cache
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfoInputs.cache
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfo.cs
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.dll
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\refint\BulkyBook.Model.dll
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.pdb
+C:\Users\Muhammad Isa\source\repos\BulkyBook.Model\obj\Debug\net6.0\ref\BulkyBook.Model.dll
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.deps.json
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.dll
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\bin\Debug\net6.0\BulkyBook.Model.pdb
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.AssemblyReference.cache
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfoInputs.cache
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.AssemblyInfo.cs
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.csproj.CoreCompileInputs.cache
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.dll
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\refint\BulkyBook.Model.dll
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\BulkyBook.Model.pdb
+D:\Spredian\Ef Core Mvc\BulkyBook Project\BulkyBook.Model\obj\Debug\net6.0\ref\BulkyBook.Model.dll
